@@ -26,4 +26,5 @@ Dosa-Project started
 * Dosa-batter
 * cheese
 * oil
-*masala
+* masala
+* ghee
