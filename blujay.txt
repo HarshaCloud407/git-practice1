@@ -11,3 +11,10 @@ Dosa-Project started
 *Dosa-flour
 *Karam
 *sunflower oil
+
+* paneer-masala-dosa
+
+*Dosa-Batter
+*paneer
+*masala
+*oil
