@@ -11,3 +11,9 @@ Dosa-Project started
 *Dosa-flour
 *Karam
 *sunflower oil
+
+* special-dosa
+
+* special-dosa-batter
+* special-masala
+* ghee
